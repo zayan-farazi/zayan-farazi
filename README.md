@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year Software Engineering student at UNSW and I am currently working on numerous projects to develop and utilise my skills including a marketplace for a streetwear startup.<br>
+I am a second-year Software Engineering student at UNSW and I am currently working on numerous projects to develop and utilise my skills.<br>
 
 
 ## 🌐 Socials:
